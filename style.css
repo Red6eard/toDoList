@@ -1,0 +1,26 @@
+body{
+ text-align: center;
+}
+h1 {
+-webkit-border-radius: 11px;
+-moz-border-radius: 11px;
+border-radius: 11px;
+-webkit-box-shadow: 0px 0px 50px #000000;
+-moz-box-shadow: 0px 0px 50px #000000;
+box-shadow: 0px 0px 50px #000000;
+background-color: #DDDDDD;
+padding: 10px;
+font-family: Verdana, Geneva, sans-serif;
+font-size: 12pt;
+color: black;
+text-align: center;
+box-shadow: 0px 0px 50px #000000;
+text-shadow: 1px 1px 0px #B22222;
+}
+
+.list {
+  color: black;
+}
+.wrapInp{
+  margin-top: 25px;
+}
