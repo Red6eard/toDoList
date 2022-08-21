@@ -3,7 +3,6 @@ const button = document.getElementById("btn");
 const list = document.getElementById("list");
 
 function sendItem(btn){
-	console.log(button)
+	
 }
 
-sendItem();
